@@ -1,5 +1,5 @@
 # Suicide-Sex-Classifier
-[Dataset]([url](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016))
+[Dataset](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
 
 This model was created using logistic regression and aims to predict which sex commits the majority of suicides in a country for a year.
 The response variable is equal to 1 if the majority is was male and 0 otherwise.
